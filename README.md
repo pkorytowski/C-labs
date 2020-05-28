@@ -1,5 +1,3 @@
 # Cpp-labs
-Exercises from my first semester of C++ laboratories.
-Tasks descriptions and expected output are in all main.cpp files.
+Exercises from my first and second semester of C++ laboratories.
 
-Files from second semester I will add within a week after classes.
